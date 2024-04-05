@@ -1,0 +1,21 @@
+- docker pull イメージ名
+- docker images
+- docker run -it -d --name イメージ名
+- docker ps
+- docker exec -it イメージ名 bash
+- docker stop イメージ名
+- docker start イメージ名
+- ls
+- pwd
+- cd
+- mkdir ディレクトリ名
+- touch ファイル名
+- &&
+- cp コピー元 コピー先
+- mv 変更元 変更先
+- rm 削除するファイルかディレクトリ
+- *
+- cat
+- >
+- >>
+- vi ファイル名
